@@ -1,0 +1,29 @@
+nav { 
+	padding: 10px 5px;
+}
+.navbarNav {
+	flex: 1;
+	flex-direction: row;
+}
+.navbarNav > a {
+	cursor: pointer;
+	margin-right: 10px;
+	color: white;
+}
+.active {
+	text-decoration: underline !important;
+}
+.active:hover {
+	text-decoration: underline !important;
+}
+.navbarBrand {
+	padding: 0;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+.brand {
+	height: 38px;
+}
+.btnLang > button {
+	margin-right: 5px;
+}

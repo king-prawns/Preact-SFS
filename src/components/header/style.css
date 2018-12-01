@@ -1,0 +1,23 @@
+header {
+    position: relative;
+    height: 83px;
+}
+.appTitle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    padding-top: 15px;
+    text-align: center;
+    color: white;
+}
+header h1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+.appLogo {
+  height: 50px;
+}

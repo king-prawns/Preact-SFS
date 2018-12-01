@@ -1,0 +1,12 @@
+.userDetails {
+	padding-top: 10px;
+	position: relative;
+}
+.btnUpdate {
+	margin-right: 10px;
+}
+.topRight {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
